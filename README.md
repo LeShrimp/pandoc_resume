@@ -1,14 +1,10 @@
 The Markdown Resume
 ===================
 
-Instructions:
+My Resume as of 2016 in Markdown format.
 
-    git clone https://github.com/mszep/pandoc_resume
-    cd pandoc_resume
-    vim resume.md   #insert your own resume info
-    make
+Thanks to [Mark Szepieniec](https://github.com/mszep/)
+for allowing me to finally have my Resume in an easily
+editable and distributable format!
 
-Requirements:
-
- * ConTeXt
- * pandoc
+And it looks good, too!
