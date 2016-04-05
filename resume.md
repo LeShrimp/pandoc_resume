@@ -1,100 +1,113 @@
-Johnny Coder
-============
+Maxime Wegesin
+==============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Webentwickler, Neugieriger, Grübler, Kindskopf
 
 ----
 
-Education
----------
+Persönliches
+------------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+Geboren
+:   09.09.1988
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+Geburtsort
+:   Steinheim (Westfalen)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Familienstand
+:   ledig
 
-    *Minor: Awesomeology*
-
-Experience
+Ausbildung
 ----------
 
-**Your Most Recent Work Experience:**
+2011-2014
+:   **M.Sc. Mathematik** Rheinische Friedrich-Wilhelms-Universität Bonn, *Note: 1,6*
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+    *Titel der Masterarbeit: Binary trees with choosable edge lengths*
 
-* First item
+2008-2011
+:   **B.Sc. Mathematik** Rheinische Friedrich-Wilhelms-Universität Bonn, *Note: 1,3*
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+    *Nebenfach: Informatik*
 
-**That Other Job You Had**
+    *Titel der Bachelorarbeit: Lokale Koeffizientensysteme*
 
-Also with a short description.
+2007-2008
+:   **Zivildienst** im Haus Venusberg Bonn
 
-Technical Experience
---------------------
+2000-2007
+:   **Allgemeine Hochschulreife** St. Pius Gymnasium, Coesfeld
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+1998-2000
+:   St. Ursula Gymnasium, Dorsten
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Berufserfahrung
+---------------
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+**Constructiva Solutions** (2015-heute)
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Constructiva ist eine kleine Webagentur in Bonn.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+* Weiterentwicklung und Pflege eines modernen Symfony2 Projekts
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+* Pflege diverser Typo3 Projekte
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+**Hitmeister GmbH** (2014-2015)
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+Hitmeister ist ein Online-Marktplatz mit Sitz in Köln.
 
-* Human Languages:
+* Weiterentwicklung und Pflege des Marktplatzes
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
 
-* Random tidbit
+Technologien
+------------
 
-* Other sort of impressive-sounding thing you did
+Programmiersprachen
+:   **PHP:** Fundierte Kenntnis der Sprache, Erfahrung mit Symfony2
+    und anderen Frameworks. Verwendung von Composer.
+
+    **JavaScript, Coffeescript:** Fundierte Kenntnis der Sprache,
+    berufliche Erfahrung mit JQuery, TinyMCE, underscore, u.a..
+    Außerdem Verwendung für private Multimedia Projekte unter
+    Benutzung der Web Audio API und Html5 Canvas. (Siehe [GitHub][])
+
+    **Java:** Entwicklung eines Befunge Interpreters mit Swing GUI.
+    ([Wasabi][])
+
+    **Grundlegende Kenntnis:** C, Python, Elm, Haskell, Befunge,
+    Brainfuck
+
+Tools
+:   **Verwendete Tools:** GNU\\Linux, Git, PhpStorm, xDebug, Jira
+
+[GitHub]: https://github.com/LeShrimp
+[Wasabi]: https://github.com/LeShrimp/wasabi
+
+Sonstiges
+---------
+
+Tätigkeiten
+:   Tätigkeit als Tutor für Mathematikvorlesungen für Mathematiker,
+    Informatiker und Biologen
+
+    Betreuung mehrerer C-Programmierkurse für Studienanfänger in
+    den Fächern Mathematik und Physik
+
+    Ehrenamtliches 6-monatiges Praktikum auf der Jugendfarm Bonn e.v.
+
+Sprachen
+:   Deutsch (Muttersprache), Französisch (2. Muttersprache), Englisch
+
+Auslandsaufenthalte
+:   Ein Semester Mathematikstudium an der UPMC in Paris
+
+Interessen
+:   Jonglage, Klettern, Joggen, Filme, Bücher, ...
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <maxweg@gmx.net> • +49 (0)157 8261 8927
+> Clemensstr. 28a - 53225 Bonn
