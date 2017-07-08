@@ -57,6 +57,8 @@ Berufserfahrung
 
     Constructiva ist eine kleine Webagentur in Bonn.
 
+    * Entwicklung einer Typescript/React/Redux Anwendung
+
     * Weiterentwicklung und Pflege eines modernen Symfony2 Projekts
         * Symfony2, Doctrine ORM, jQuery, UnderscoreJs, Bootstrap, MySQL
 
@@ -72,27 +74,39 @@ Berufserfahrung
     * Weiterentwicklung und Pflege des Marktplatzes
         * Zend Framework, jQuery, Elasticsearch, MySQL
 
+Technologien
+------------
 
+Programmiersprachen
+:   **PHP:** Fundierte Kenntnis der Sprache, Erfahrung mit Symfony2
+    und anderen Frameworks. Verwendung von Composer.
 
-Technische Erfahrung
---------------------
+    **JavaScript, Typescript, Coffeescript:** Fundierte Kenntnis der Sprache,
+    berufliche Erfahrung mit Redux/React, JQuery, TinyMCE, underscore, u.a..
+    Außerdem Verwendung für private Multimedia Projekte unter
+    Benutzung der Web Audio API und Html5 Canvas. (Siehe [GitHub][])
 
-**Programmiersprachen (Absteigend nach Kenntnissen)**
+    **C:** Mitbetreuung von C-Programmierkursen für Mathematiker und Phyiker
 
-JavaScript, CoffeeScript, PHP, C, Java, Elm, Haskell, Lua und Grundkenntnisse in diversen anderen
+    **Java:** Entwicklung eines Befunge Interpreters mit Swing GUI.
+    ([Wasabi][])
 
+    **Grundlegende Kenntnis:** Python, Elm, Haskell, Lisp, Befunge,
+    Brainfuck
 
-**Tools**
+Tools
+:   **Verwendete Tools:** GNU\\Linux, Git, PhpStorm, xDebug, Atlassian Produkte,
+    Vim
 
-Git, Vim, Linux
-
+[GitHub]: https://github.com/LeShrimp
+[Wasabi]: https://github.com/LeShrimp/wasabi
 
 Sonstiges
 ---------
 
 **Tätigkeiten**
 
-* 2 Wochen als Betreuer und Lehrer beim ComputerCamp
+* 2 Wochen als Betreuer und Lehrer beim [ComputerCamp][]
 
 * Ehrenamtliches 6-monatiges Praktikum auf der Jugendfarm Bonn e.v.
 
@@ -102,6 +116,7 @@ Sonstiges
 * Betreuung mehrerer C-Programmierkurse für Studienanfänger in
   den Fächern Mathematik und Physik
 
+[ComputerCamp]: https://www.computercamp.at/computerkurse-ferienlager/
 
 **Sprachen**
 
@@ -115,9 +130,9 @@ Ein Semester Mathematikstudium an der UPMC in Paris
 
 **Interessen**
 
-Jonglage, Klettern, Joggen, Filme, Bücher, ...
+Joggen, Funktionale Programmierung, Filme, Bücher, ...
 
 ----
 
 > <maxweg@gmx.net> • +49 (0)157 8261 8927  
-> Clemensstr. 28a - 53225 Bonn
+> Friedrich-Ebert-Str. 92 - 34119 Kassel
