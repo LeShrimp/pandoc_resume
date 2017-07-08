@@ -3,9 +3,10 @@ Maxime Wegesin
 
 ----
 
->  Webentwickler, Neugieriger, Grübler, Kindskopf
+>  Webentwickler, Forscher, Grübler, Kindskopf
 
 ----
+
 
 Persönliches
 ------------
@@ -18,6 +19,10 @@ Geburtsort
 
 Familienstand
 :   ledig
+
+Homepage
+:   www.thereisbeauty.de
+
 
 Ausbildung
 ----------
@@ -43,69 +48,74 @@ Ausbildung
 1998-2000
 :   St. Ursula Gymnasium, Dorsten
 
+
 Berufserfahrung
 ---------------
 
-**Constructiva Solutions** (2015-heute)
+2015-heute
+:   **Constructiva Solutions**
 
-Constructiva ist eine kleine Webagentur in Bonn.
+    Constructiva ist eine kleine Webagentur in Bonn.
 
-* Weiterentwicklung und Pflege eines modernen Symfony2 Projekts
+    * Weiterentwicklung und Pflege eines modernen Symfony2 Projekts
+        * Symfony2, Doctrine ORM, jQuery, UnderscoreJs, Bootstrap, MySQL
 
-* Pflege diverser Typo3 Projekte
-
-
-**Hitmeister GmbH** (2014-2015)
-
-Hitmeister ist ein Online-Marktplatz mit Sitz in Köln.
-
-* Weiterentwicklung und Pflege des Marktplatzes
+    * Pflege diverser Typo3 Projekte
 
 
-Technologien
-------------
 
-Programmiersprachen
-:   **PHP:** Fundierte Kenntnis der Sprache, Erfahrung mit Symfony2
-    und anderen Frameworks. Verwendung von Composer.
+2014-2015
+:   **Hitmeister GmbH** (2014-2015)
 
-    **JavaScript, Coffeescript:** Fundierte Kenntnis der Sprache,
-    berufliche Erfahrung mit JQuery, TinyMCE, underscore, u.a..
-    Außerdem Verwendung für private Multimedia Projekte unter
-    Benutzung der Web Audio API und Html5 Canvas. (Siehe [GitHub][])
+    Hitmeister ist ein Online-Marktplatz mit Sitz in Köln.
 
-    **Java:** Entwicklung eines Befunge Interpreters mit Swing GUI.
-    ([Wasabi][])
+    * Weiterentwicklung und Pflege des Marktplatzes
+        * Zend Framework, jQuery, Elasticsearch, MySQL
 
-    **Grundlegende Kenntnis:** C, Python, Elm, Haskell, Befunge,
-    Brainfuck
 
-Tools
-:   **Verwendete Tools:** GNU\\Linux, Git, PhpStorm, xDebug, Jira
 
-[GitHub]: https://github.com/LeShrimp
-[Wasabi]: https://github.com/LeShrimp/wasabi
+Technische Erfahrung
+--------------------
+
+**Programmiersprachen (Absteigend nach Kenntnissen)**
+
+JavaScript, CoffeeScript, PHP, C, Java, Elm, Haskell, Lua und Grundkenntnisse in diversen anderen
+
+
+**Tools**
+
+Git, Vim, Linux
+
 
 Sonstiges
 ---------
 
-Tätigkeiten
-:   Tätigkeit als Tutor für Mathematikvorlesungen für Mathematiker,
-    Informatiker und Biologen
+**Tätigkeiten**
 
-    Betreuung mehrerer C-Programmierkurse für Studienanfänger in
-    den Fächern Mathematik und Physik
+* 2 Wochen als Betreuer und Lehrer beim ComputerCamp
 
-    Ehrenamtliches 6-monatiges Praktikum auf der Jugendfarm Bonn e.v.
+* Ehrenamtliches 6-monatiges Praktikum auf der Jugendfarm Bonn e.v.
 
-Sprachen
-:   Deutsch (Muttersprache), Französisch (2. Muttersprache), Englisch
+* Tätigkeit als Tutor für Mathematikvorlesungen für Mathematiker,
+  Informatiker und Biologen
 
-Auslandsaufenthalte
-:   Ein Semester Mathematikstudium an der UPMC in Paris
+* Betreuung mehrerer C-Programmierkurse für Studienanfänger in
+  den Fächern Mathematik und Physik
 
-Interessen
-:   Jonglage, Klettern, Joggen, Filme, Bücher, ...
+
+**Sprachen**
+
+Deutsch (Muttersprache), Französisch (2. Muttersprache), Englisch
+
+
+**Auslandsaufenthalte**
+
+Ein Semester Mathematikstudium an der UPMC in Paris
+
+
+**Interessen**
+
+Jonglage, Klettern, Joggen, Filme, Bücher, ...
 
 ----
 
